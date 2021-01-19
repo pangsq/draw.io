@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T09:14:34.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43" version="13.8.3" etag="2ukNKeHxMZNf_DqUQjf7" type="github"><diagram id="hUs9ZAYrc9MjiG2jpgki">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="65bd71144e" modified="2020-10-28T13:14:02.282Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.50.1 Chrome/83.0.4103.122 Electron/9.2.1 Safari/537.36" etag="LMtE7oc0bwvwHn89cRGF" version="13.6.5">
+    <diagram id="hUs9ZAYrc9MjiG2jpgki" name="Page-1">
+        <mxGraphModel dx="1871" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="35" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#F8F9FA;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="183" y="181" width="281" height="244" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="请选择分隔符" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#F8F9FA;fontColor=#6C767D;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="35">
+                    <mxGeometry width="281" height="50" relative="1" as="geometry">
+                        <mxPoint y="-2" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="确定" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#E6E6E6;align=center;strokeColor=#E6E6E6;fontColor=#333333;" vertex="1" parent="35">
+                    <mxGeometry x="80" y="194" width="104" height="27" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7ui.onOffButton;buttonState=on;strokeColor=#001DBC;strokeColor2=#aaaaaa;fillColor=#0050ef;fillColor2=#ffffff;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="-747" y="490.25" width="43.5" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7ui.onOffButton;buttonState=on;strokeColor=#001DBC;strokeColor2=#aaaaaa;fillColor=#0050ef;fillColor2=#ffffff;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="-747" y="440.25" width="43.5" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="test" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#505050;strokeWidth=1;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingRight=0;spacing=17;" vertex="1" parent="1">
+                    <mxGeometry x="-677" y="436.5" width="330" height="32.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" vertex="1" parent="10">
+                    <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
+                        <mxPoint x="-17" y="-2.5" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="digger" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=1;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="-677" y="497.75" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="logbook" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="-607" y="497.75" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="+创建" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#F8F9FA;fontColor=#000000;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+                    <mxGeometry x="-307" y="436" width="60" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="开启后每个实例将占用 0.5c/512Mi，采集目录为/export/log. Digger/Logbook对应的应用名称为" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="-537" y="492.75" width="556" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="固定IP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="-804" y="445.25" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="统一日志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="-814" y="490.25" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#ffffff;recursiveResize=0;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="229" width="150" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;font color=&quot;#000000&quot;&gt;换行符 \n&lt;/font&gt;" style="shape=ellipse;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="24">
+                    <mxGeometry x="8" y="7.5" width="15" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;font color=&quot;#000000&quot;&gt;逗号 ,&lt;/font&gt;" style="shape=ellipse;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="24">
+                    <mxGeometry x="8" y="37.5" width="15" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;font color=&quot;#000000&quot;&gt;分号&amp;nbsp; ;&lt;/font&gt;" style="shape=ellipse;rSize=0;fillColor=#aaaaaa;strokeColor=#444444;gradientColor=#666666;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#008cff;labelPosition=right;" vertex="1" parent="24">
+                    <mxGeometry x="8" y="67.5" width="15" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="shape=ellipse;fillColor=#444444;strokeColor=none;html=1;" vertex="1" parent="27">
+                    <mxGeometry x="3" y="3" width="9" height="9" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="自定义分隔符&amp;nbsp;" style="shape=ellipse;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="24">
+                    <mxGeometry x="8" y="97.5" width="15" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+                    <mxGeometry x="344" y="315" width="92" height="29" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
